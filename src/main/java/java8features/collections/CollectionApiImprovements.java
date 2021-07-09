@@ -1,5 +1,5 @@
 package java8features.collections;
-//adding a comment here to test if this gets to my local eclipse project source
+//adding a comment here to test if this gets to my local eclipse project source **
 public class CollectionApiImprovements {
 
 	public CollectionApiImprovements() {
